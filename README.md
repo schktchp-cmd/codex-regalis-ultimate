@@ -1,6 +1,6 @@
 # CODEX REGALIS ULTIME — Bazzite / Calibre
 
-Thème chevaleresque : enluminure sur parchemin, blasons, épées croisées, heaumes, sceaux de cire, couronnes, grimoires, châteaux et ornements d'or ancien. Le logo d'application est **repris à l'identique de la version précédente approuvée**.
+Thème chevaleresque : enluminure sur parchemin, blasons, épées croisées, heaumes, sceaux de cire, couronnes, grimoires, châteaux et ornements d'or ancien.
 
 ## Ce que contient cette version
 
